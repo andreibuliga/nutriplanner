@@ -1,0 +1,40 @@
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #f1e8ea;
+}
+
+.header .logo a {
+  font-size: 24px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+}
+
+.header ul li {
+  margin-left: 20px;
+}
+
+.header a,
+.header button {
+  color: #000000;
+  text-decoration: none;
+}
+
+.btn-header {
+  background-color: #ad192a;
+  color: #000000;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-header:hover {
+  background-color: #e4b78f;
+} */

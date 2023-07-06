@@ -1,0 +1,44 @@
+.recipe-details {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.recipe-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.recipe-details {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-details h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.recipe-details p {
+  margin-bottom: 1rem;
+}
+
+.recipe-details .recipe-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+  border-radius: 5px;
+}
+
+.recipe-details ul,
+.recipe-details ol {
+  margin-bottom: 1rem;
+}

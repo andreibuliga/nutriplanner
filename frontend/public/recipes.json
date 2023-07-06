@@ -1,0 +1,251 @@
+[
+  {
+    "title": "Spinach and Mushroom Omelette",
+    "description": "A delicious and protein-packed omelette with spinach and mushrooms.",
+    "ingredients": [
+      { "name": "Eggs", "quantity": 3, "unit": "whole" },
+      { "name": "Spinach", "quantity": 1, "unit": "cup" },
+      { "name": "Mushrooms", "quantity": 1, "unit": "cup" },
+      { "name": "Onion", "quantity": 0.25, "unit": "cup" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Heat olive oil in a pan over medium heat.",
+      "Add onions and cook until softened.",
+      "Add mushrooms and cook for 3-4 minutes.",
+      "Add spinach and cook until wilted.",
+      "In a bowl, whisk the eggs and pour over the vegetables.",
+      "Cook until the eggs are set, then fold the omelette in half and serve."
+    ],
+    "imageUrl": "https://example.com/spinach-mushroom-omelette.jpg",
+    "totalCalories": 350,
+    "macros": {
+      "protein": 24,
+      "fat": 22,
+      "carbohydrates": 12
+    }
+  },
+  {
+    "title": "Grilled Chicken Salad",
+    "description": "A light and refreshing grilled chicken salad with mixed greens and vegetables.",
+    "ingredients": [
+      { "name": "Chicken breast", "quantity": 4, "unit": "oz" },
+      { "name": "Mixed greens", "quantity": 2, "unit": "cups" },
+      { "name": "Tomato", "quantity": 0.5, "unit": "cup" },
+      { "name": "Cucumber", "quantity": 0.5, "unit": "cup" },
+      { "name": "Red onion", "quantity": 0.25, "unit": "cup" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Lemon juice", "quantity": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Grill chicken breast until cooked through, about 6-7 minutes per side.",
+      "In a large bowl, combine mixed greens, tomato, cucumber, and red onion.",
+      "In a small bowl, whisk together olive oil and lemon juice.",
+      "Drizzle dressing over salad and toss to combine.",
+      "Slice grilled chicken and place on top of the salad. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/grilled-chicken-salad.jpg",
+    "totalCalories": 350,
+    "macros": {
+      "protein": 36,
+      "fat": 18,
+      "carbohydrates": 10
+    }
+  },
+  {
+    "title": "Quinoa and Black Bean Salad",
+    "description": "A hearty and nutritious quinoa salad with black beans, avocado, and fresh vegetables.",
+    "ingredients": [
+      { "name": "Quinoa", "quantity": 0.5, "unit": "cup" },
+      { "name": "Black beans", "quantity": 0.5, "unit": "cup" },
+      { "name": "Avocado", "quantity": 0.5, "unit": "whole" },
+      { "name": "Tomato", "quantity": 0.5, "unit": "cup" },
+      { "name": "Cilantro", "quantity": 2, "unit": "tbsp" },
+      { "name": "Lime juice", "quantity": 1, "unit": "tbsp" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Cook quinoa according to package instructions. Let cool.",
+      "In a large bowl, combine quinoa, black beans, avocado, tomato, and cilantro.",
+      "In a small bowl, whisk together lime juice and olive oil.",
+      "Drizzle dressing over salad and toss to combine. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/quinoa-black-bean-salad.jpg",
+    "totalCalories": 400,
+    "macros": {
+      "protein": 15,
+      "fat": 20,
+      "carbohydrates": 45
+    }
+  },
+  {
+    "title": "Baked Salmon with Asparagus",
+    "description": "A simple and delicious baked salmon dish with asparagus and lemon.",
+    "ingredients": [
+      { "name": "Salmon fillet", "quantity": 4, "unit": "oz" },
+      { "name": "Asparagus", "quantity": 6, "unit": "spears" },
+      { "name": "Lemon", "quantity": 0.5, "unit": "whole" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Garlic", "quantity": 2, "unit": "cloves" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Place salmon and asparagus on a baking sheet. Drizzle with olive oil and squeeze lemon over top.",
+      "Roast for 12-15 minutes, or until salmon is cooked through.",
+      "Serve immediately with extra lemon slices on the side."
+    ],
+    "imageUrl": "https://example.com/baked-salmon-asparagus.jpg",
+    "totalCalories": 350,
+    "macros": {
+      "protein": 28,
+      "fat": 20,
+      "carbohydrates": 10
+    }
+  },
+  {
+    "title": "Greek Yogurt with Berries and Nuts",
+    "description": "A quick and easy breakfast or snack with Greek yogurt, fresh berries, and nuts.",
+    "ingredients": [
+      { "name": "Greek yogurt", "quantity": 1, "unit": "cup" },
+      { "name": "Mixed berries", "quantity": 0.5, "unit": "cup" },
+      { "name": "Almonds", "quantity": 2, "unit": "tbsp" },
+      { "name": "Honey", "quantity": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "Place Greek yogurt in a bowl.",
+      "Top with mixed berries and almonds.",
+      "Drizzle with honey and serve       immediately."
+    ],
+    "imageUrl": "https://example.com/greek-yogurt-berries-nuts.jpg",
+    "totalCalories": 200,
+    "macros": {
+      "protein": 20,
+      "fat": 6,
+      "carbohydrates": 20
+    }
+  },
+  {
+    "title": "Vegetable Stir Fry with Tofu",
+    "description": "A colourful and nutrient-packed stir fry with tofu and a variety of vegetables.",
+    "ingredients": [
+      { "name": "Tofu", "quantity": 4, "unit": "oz" },
+      { "name": "Mixed vegetables", "quantity": 2, "unit": "cups" },
+      { "name": "Soy sauce", "quantity": 2, "unit": "tbsp" },
+      { "name": "Sesame oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Garlic", "quantity": 2, "unit": "cloves" }
+    ],
+    "instructions": [
+      "Heat sesame oil in a pan over medium heat.",
+      "Add garlic and cook until fragrant.",
+      "Add tofu and cook until golden brown on all sides.",
+      "Add vegetables and stir fry for a few minutes until tender.",
+      "Stir in soy sauce and cook for another minute. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/vegetable-stir-fry-tofu.jpg",
+    "totalCalories": 300,
+    "macros": {
+      "protein": 20,
+      "fat": 12,
+      "carbohydrates": 30
+    }
+  },
+  {
+    "title": "Shrimp and Vegetable Skewers",
+    "description": "Delicious and healthy grilled shrimp and vegetable skewers with a light lemon marinade.",
+    "ingredients": [
+      { "name": "Shrimp", "quantity": 4, "unit": "oz" },
+      { "name": "Mixed vegetables", "quantity": 1, "unit": "cup" },
+      { "name": "Lemon juice", "quantity": 1, "unit": "tbsp" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Garlic", "quantity": 1, "unit": "clove" }
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat.",
+      "Thread shrimp and vegetables onto skewers.",
+      "In a small bowl, whisk together lemon juice, olive oil, and garlic.",
+      "Brush skewers with marinade and grill for 2-3 minutes per side, or until shrimp is pink and vegetables are tender."
+    ],
+    "imageUrl": "https://example.com/shrimp-vegetable-skewers.jpg",
+    "totalCalories": 200,
+    "macros": {
+      "protein": 24,
+      "fat": 8,
+      "carbohydrates": 10
+    }
+  },
+  {
+    "title": "Blueberry Smoothie Bowl",
+    "description": "A refreshing and nutrient-dense smoothie bowl with blueberries, banana, and chia seeds.",
+    "ingredients": [
+      { "name": "Blueberries", "quantity": 1, "unit": "cup" },
+      { "name": "Banana", "quantity": 1, "unit": "whole" },
+      { "name": "Almond milk", "quantity": 0.5, "unit": "cup" },
+      { "name": "Chia seeds", "quantity": 1, "unit": "tbsp" },
+      { "name": "Honey", "quantity": 1, "unit": "tsp" }
+    ],
+    "instructions": [
+      "In a blender, combine blueberries, banana, almond milk, and honey.",
+      "Blend until smooth.",
+      "Pour into a bowl and top with chia seeds. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/blueberry-smoothie-bowl.jpg",
+    "totalCalories": 300,
+    "macros": {
+      "protein": 8,
+      "fat": 6,
+      "carbohydrates": 60
+    }
+  },
+  {
+    "title": "Zucchini Noodles with Tomato Sauce",
+    "description": "A low-carb pasta alternative with zucchini noodles and a flavorful tomato sauce.",
+    "ingredients": [
+      { "name": "Zucchini", "quantity": 1, "unit": "whole" },
+      { "name": "Tomato sauce", "quantity": 0.5, "unit": "cup" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "Garlic", "quantity": 2, "unit": "cloves" },
+      { "name": "Parmesan cheese", "quantity": 2, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Spiralize zucchini into noodles.",
+      "Heat olive oil in a pan over medium heat.",
+      "Add garlic and cook until fragrant.",
+      "Add tomato sauce and cook for a few minutes until heated through.",
+      "Add zucchini noodles and toss to combine.",
+      "Sprinkle with parmesan cheese and serve immediately."
+    ],
+    "imageUrl": "https://example.com/zucchini-noodles-tomato-sauce.jpg",
+    "totalCalories": 200,
+    "macros": {
+      "protein": 8,
+      "fat": 14,
+      "carbohydrates": 12
+    }
+  },
+  {
+    "title": "Roasted Sweet Potato and Chickpea Salad",
+    "description": "A hearty and filling salad with roasted sweet potatoes, chickpeas, and a tangy lemon dressing.",
+    "ingredients": [
+      { "name": "Sweet potato", "quantity": 1, "unit": "whole" },
+      { "name": "Chickpeas", "quantity": 0.5, "unit": "cup" },
+      { "name": "Mixed greens", "quantity": 2, "unit": "cups" },
+      { "name": "Lemon juice", "quantity": 1, "unit": "tbsp" },
+      { "name": "Olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Dice sweet potato and spread on a baking sheet. Roast for 20-25 minutes, or until tender.",
+      "In a large bowl, combine mixed greens, roasted sweet potato, and chickpeas.",
+      "In a small bowl, whisk together lemon juice and olive oil.",
+      "Drizzle dressing over salad and toss to combine. Serve immediately."
+    ],
+    "imageUrl": "https://example.com/roasted-sweet-potato-chickpea-salad.jpg",
+    "totalCalories": 350,
+    "macros": {
+      "protein": 10,
+      "fat": 14,
+      "carbohydrates": 50
+    }
+  }
+]
